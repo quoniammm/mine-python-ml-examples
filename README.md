@@ -7,4 +7,6 @@ python 机器学习
 4.[感知器(sklearn)](https://github.com/quoniammm/mine-python-ml-examples/tree/master/sklearn-examples/sklearn-examples) <br>
 5.[逻辑回归](https://github.com/quoniammm/mine-python-ml-examples/tree/master/sklearn-examples/sklearn-examples) <br>
 6.[支持向量机(svm)](https://github.com/quoniammm/mine-python-ml-examples/tree/master/sklearn-examples/sklearn-examples) <br>
+7.[决策树](https://github.com/quoniammm/mine-python-ml-examples/tree/master/sklearn-examples/sklearn-examples) <br>
+8.[KNN(K-邻近)](https://github.com/quoniammm/mine-python-ml-examples/tree/master/sklearn-examples/sklearn-examples) <br>
 
