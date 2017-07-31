@@ -13,5 +13,6 @@ python 机器学习
 10.[特征选择(RFC_通过随机森林判定特征的重要性)](https://github.com/quoniammm/mine-python-ml-examples/tree/master/RFC) <br>
 11.[特征抽取(PCA_principaComponentAnalysis_主成分分析):一种无监督算法](https://github.com/quoniammm/mine-python-ml-examples/tree/master/PCA) <br>
 12.[特征抽取(LDA_linearDiscriminantAnalysis_线性判别分析):一种监督算法](https://github.com/quoniammm/mine-python-ml-examples/tree/master/LDA) <br>
+13.[模型评估与参数调优实战](https://github.com/quoniammm/mine-python-ml-examples/tree/master/Pipeline) <br>
 
 
